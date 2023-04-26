@@ -24,7 +24,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
 <a href="mailto:mahmoudmayar251@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
-قال تعالى+ : +{وَ قُلْ رَبِّ زِدْنِي عِلْماً
 
 
 
@@ -34,5 +33,5 @@
 <br/>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال تعالى" style="color:Mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
 </p>
