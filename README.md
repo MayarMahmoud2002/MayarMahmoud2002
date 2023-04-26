@@ -9,7 +9,6 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="210">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Mayar Mahmoud from Egypt. I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
