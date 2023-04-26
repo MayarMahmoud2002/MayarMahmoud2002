@@ -34,5 +34,5 @@
 <br/>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال تعالى" style="color:Mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+[ طـه : 114 ]+{وَ قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال تعالى" style="color:Mix" />
 </p>
