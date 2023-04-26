@@ -12,14 +12,16 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 
-### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)]((https://www.facebook.com/mayar.mahmoud.10236/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmoudmayar251@gmail.com)](mailto:mahmoudmayar251@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
+## 🔗Contact Me
+[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
+
+
 
 <!-- ### 🔗 Links
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mayar.mahmoud.10236/)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
+[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 <a href="mailto:AmrSaaayed74@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 
