@@ -9,6 +9,10 @@
 
 <br/>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="270">
+<img align="right" src="https://media1.giphy.com/media/hEghiXXopb77PUoPQb/giphy.gif?cid=ecf05e47vnw84q9uc3szdi9y863zc0v2s85kvrm8q7puum2a&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="350" height="270">
+
+
+
 
 
 
