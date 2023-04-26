@@ -34,5 +34,5 @@
 <br/>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+وقل+ربي+زدني!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+علما+وقل+ربي+زدني" style="color:mix" />
 </p>
