@@ -32,6 +32,6 @@
 <br/>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال تعالى  :
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+ : +  قال تعالى 
 "style="color:black" />
 </p>
