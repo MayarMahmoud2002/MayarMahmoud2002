@@ -34,5 +34,5 @@
 <br/>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+علما+وقل+ربي+زدني" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+وَ قُلْ+رَبِّ+زِدْنِي+عِلْماً" style="color:red" />
 </p>
