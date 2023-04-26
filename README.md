@@ -35,11 +35,6 @@
 ---
 <br/>
 -->
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
-
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+</p>
