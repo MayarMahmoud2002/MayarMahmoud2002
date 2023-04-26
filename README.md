@@ -8,7 +8,7 @@
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
 <br/>
-<img align="right" src="https://media1.giphy.com/media/hEghiXXopb77PUoPQb/giphy.gif?cid=ecf05e47vnw84q9uc3szdi9y863zc0v2s85kvrm8q7puum2a&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="480" height="350">
+<img align="right" src="https://media1.giphy.com/media/hEghiXXopb77PUoPQb/giphy.gif?cid=ecf05e47vnw84q9uc3szdi9y863zc0v2s85kvrm8q7puum2a&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="520" height="320">
 
 
 
