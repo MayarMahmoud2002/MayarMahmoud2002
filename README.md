@@ -16,12 +16,13 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Mayar Mahmoud from Egypt. I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. </h4>
+<h4> Alsalam Alycom, My Name Is Mayar Mahmoud and I am a Flutter app developer focused on creating intuitive user interfaces. I have experience building applications using Dart language fundamentals and the Flutter framework, emphasizing clean code to enhance efficiency. Continuously striving for self-improvement, I eagerly pursue new developments in the field. 
+</h4>
 
 
 
-## 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mayar.mahmoud.10236/)
+## 🔗Contact With Me
+[![Freelancer](https://www.bing.com/images/search?view=detailV2&ccid=i1Zzx%2BFV&id=2B40944A4DA1D0E152B338A3AAAA1F4C0AB9B695&thid=OIP.i1Zzx-FV5SJThlYaHNx0ZgHaBz&mediaurl=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F06%2FFreelancer_logo.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.8b5673c7e155e5225386561a1cdc7466%3Frik%3Dlba5CkwfqqqjOA%26pid%3DImgRaw%26r%3D0&exph=1044&expw=4289&q=freelancer+logo&simid=608035845136730875&form=IRPRST&ck=13D6226D090BD2F7CA35C269B15A1C6D&selectedindex=1&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)](https://www.freelancer.com/u/mayarm1)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmoudmayar251@gmail.com)](mailto:mahmoudmayar251@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
 
